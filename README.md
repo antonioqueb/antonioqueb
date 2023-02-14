@@ -1,6 +1,5 @@
 ## Hello Devs 👋
 
-Here are some ideas to get you started:
 - 🔭 I’m currently working on data analysis projects using Python and TypeScript, and building web applications with React, Django, and Redux.
 - 🌱 I’m currently learning more about Docker and API development.
 - 👯 I’m looking to collaborate on projects related to data analysis or web development.

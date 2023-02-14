@@ -1,5 +1,6 @@
-######
-#Antonio Queb
+
+##Antonio Queb
+
 I am a data specialist with expertise in Python programming. I am passionate about solving complex problems through programming and using my skills to create interactive data visualization tools and web apps.
 
 ##Skills
@@ -16,3 +17,19 @@ Sales Analysis Dashboard - Built a web application that enables users to explore
 Sentiment Analysis of Twitter Data - Analyzed tweets related to a specific topic to understand public sentiment using Python and the TextBlob library.
 ##Contact Me
 If you have any questions or would like to get in touch with me, feel free to send me an email at **antonioquebcastillo@gmail.com** or connect with me on **LinkedIn.**
+
+
+### Hi there 👋
+
+<!--
+**antonioqueb/antonioqueb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

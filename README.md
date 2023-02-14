@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Devs 👋
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on data analysis projects using Python and TypeScript, and building web applications with React, Django, and Redux.

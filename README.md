@@ -1,7 +1,6 @@
-## Hi, I'm Antonio, a data-driven Full-Stack Developer. Let's build something amazing together! 🚀💻
+### Hi, I'm Antonio, a data-driven Full-Stack Developer. Let's build something amazing together! 🚀💻
 
-
-***I'm Antonio***, a self-taught programmer with a passion for data analysis and DevOps. At the Ministry of Protection and Urban Security, I lead projects analyzing and creating customized statistics and geostatistics, and develop back-end and front-end systems using Python, JavaScript, and Django.
+Greetings, **I'm Antonio** - a self-taught programmer with a passion for DevOps and data analysis. At the Ministry of Protection and Urban Security, I lead projects involving data analysis and customized statistics, and use Python, Flask, Django, React.ts, Node.js and TypeScript to develop both back-end and front-end systems.
 
 My skills include database management, infrastructure tools like Docker and Nginx, and version control. I'm passionate about solving complex problems through programming and creating high-quality, scalable web applications and interactive data visualizations that meet my clients' needs.
 

@@ -5,3 +5,5 @@ Greetings, **I'm Antonio** - a self-taught programmer with a passion for DevOps 
 My skills include database management, infrastructure tools like Docker and Nginx, and version control. I'm passionate about solving complex problems through programming and creating high-quality, scalable web applications and interactive data visualizations that meet my clients' needs.
 
 If you're interested in my work or collaborating on a project, please feel free to **contact me through my email or LinkedIn profile**. Thank you for visiting my profile! 🚀💻
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=antonioqueb&bg_color=000000&color=ffffff&line=58c9f9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

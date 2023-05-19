@@ -2,6 +2,13 @@
 
 My name is **Queb**. As a *passionate coder*, I am proficient in a wide array of programming languages, including Python 🐍, JavaScript, TypeScript, Rust, and Go.
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonioqueb&show_icons=true&locale=en&layout=compact" alt="antonioqueb" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antonioqueb&show_icons=true&locale=en" alt="antonioqueb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonioqueb&" alt="antonioqueb" /></p>
+
+
 My professional journey centers around designing and implementing *cutting-edge software solutions*. I'm known for delivering comprehensive outcomes, employing my experience with virtual machines, Docker 🐳, Docker Compose, and Nginx. I've successfully set up robust email servers 📫 with Docker and Mailcow, a testament to my adaptability in handling diverse tech.
 
 One of my areas of expertise is developing *statistical systems to interface with Firebird 3.0 databases* 📈. These systems bring to the fore key endpoints that collect and showcase critical metrics from emergency service 911 calls 🚑. My contributions have significantly impacted the monitoring and analysis of vital data.

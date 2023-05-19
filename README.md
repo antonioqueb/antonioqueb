@@ -1,6 +1,6 @@
 # Hello! 👋
 
-My name is **Queb**. As a *passionate coder*, I am proficient in a wide array of programming languages, including Python 🐍, JavaScript, TypeScript, Rust, and Go.
+My name is **Queb**. As a *passionate coder*, I am proficient in a wide array of programming languages, including Python 🐍, JavaScript, TypeScript.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonioqueb&show_icons=true&locale=en&layout=compact" alt="antonioqueb" /></p>
 

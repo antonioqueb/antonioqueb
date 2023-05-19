@@ -6,7 +6,6 @@ My name is **Queb**. As a *passionate coder*, I am proficient in a wide array of
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antonioqueb&show_icons=true&locale=en" alt="antonioqueb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonioqueb&" alt="antonioqueb" /></p>
 
 
 My professional journey centers around designing and implementing *cutting-edge software solutions*. I'm known for delivering comprehensive outcomes, employing my experience with virtual machines, Docker 🐳, Docker Compose, and Nginx. I've successfully set up robust email servers 📫 with Docker and Mailcow, a testament to my adaptability in handling diverse tech.
@@ -20,6 +19,9 @@ With a robust command of SQL, I've proved my competence in managing and analyzin
 To me, each project is an opportunity to grow, learn, and deliver results that surpass expectations. The future of technology excites me, and I am eager to continue my journey 🚀.
 
 Thank you for taking the time to learn about me. I hope you derive as much joy from my work as I do in creating it! 😊
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonioqueb&" alt="antonioqueb" /></p>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=antonioqueb&bg_color=000000&color=ffffff&line=58c9f9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

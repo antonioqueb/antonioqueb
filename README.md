@@ -1,4 +1,4 @@
-#¡Hola! 👋
+# ¡Hola! 👋
 
 Me llamo **Queb**. Como *programador apasionado*, soy competente en una amplia gama de lenguajes de programación, incluyendo Python 🐍, JavaScript, TypeScript.
 

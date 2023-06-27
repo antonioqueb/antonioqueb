@@ -19,10 +19,3 @@ Para mí, cada proyecto es una oportunidad para crecer, aprender y entregar resu
 ¡Gracias por tomarte el tiempo para conocerme! Espero que disfrutes de mi trabajo tanto como yo disfruto creándolo. 😊
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonioqueb&" alt="antonioqueb" /></p>
-
-[![Actividad de github de Ashutosh](https://github-readme-activity-graph.cyclic.app/graph?username=antonioqueb&bg_color=000000&color=ffffff&line=58c9f9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<h3 align="left">Lenguajes y Herramientas:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos
-
- from AI to avoid the long output.

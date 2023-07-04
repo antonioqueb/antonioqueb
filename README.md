@@ -2,9 +2,11 @@
 
 ## VISIT MY SIDE PROJECTS
 
-https://generanegocios-production.up.railway.app/
-https://clima-mundo-production.up.railway.app/
-https://cash-converter-production.up.railway.app/
+- https://generanegocios-production.up.railway.app/
+- 
+- https://clima-mundo-production.up.railway.app/
+- 
+- https://cash-converter-production.up.railway.app/
 
 Me llamo **Queb**. Como *programador apasionado*, soy competente en una amplia gama de lenguajes de programación, incluyendo Python 🐍, JavaScript, TypeScript.
 

@@ -31,3 +31,5 @@ La tecnología avanza rápidamente y, con ella, las necesidades de las empresas.
 Para mí, cada proyecto es una oportunidad para demostrar el verdadero potencial de Odoo y cómo puede transformar la operación de un negocio. Si estás listo para llevar tu ERP al siguiente nivel y maximizar tu inversión en Odoo, estoy aquí para ayudarte.
 
 ¡Gracias por considerarme como tu aliado en este viaje de transformación digital! Espero tener la oportunidad de colaborar contigo y demostrar el impacto de una implementación Odoo bien ejecutada. 😊
+![Captura de Pantalla 2023-12-07 a la(s) 19 03 19](https://github.com/antonioqueb/antonioqueb/assets/92013606/5825dd92-3d60-48cb-a746-3dc3d076d05b)
+![Captura de Pantalla 2023-12-07 a la(s) 19 03 56](https://github.com/antonioqueb/antonioqueb/assets/92013606/e7b7e160-3595-4c55-94dd-c29b07291833)

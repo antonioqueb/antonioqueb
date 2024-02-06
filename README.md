@@ -28,6 +28,6 @@ Con años de experiencia en el desarrollo de software, me he especializado en co
 
 En un mundo donde la tecnología evoluciona a un ritmo vertiginoso, me mantengo siempre en la vanguardia del aprendizaje y la innovación. Estoy comprometido a utilizar mi experiencia y habilidades para asegurar que tu negocio no solo se mantenga actualizado, sino que lidere en su campo.
 
-Si estás buscando un socio tecnológico que entienda tu visión y la convierta en una realidad palpable, [contacta conmigo](tuemail@gmail.com). Juntos, podemos hacer que tu negocio alcance nuevas alturas.
+Si estás buscando un socio tecnológico que entienda tu visión y la convierta en una realidad palpable, [contacta conmigo](antonioquebcastillo@gmail.com). Juntos, podemos hacer que tu negocio alcance nuevas alturas.
 
 ¡Gracias por considerarme para ser parte de tu viaje de transformación digital! Espero la oportunidad de trabajar contigo y demostrar el impacto positivo de soluciones tecnológicas bien ejecutadas.

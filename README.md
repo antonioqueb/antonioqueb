@@ -1,7 +1,7 @@
 
 ¡Hola! 👋
 
-Bienvenido a mi mundo digital en [antonio.queb.online](https://antonio.queb.online/).
+Bienvenido a mi mundo digital en [queb.online](https://queb.online/).
 
 Soy **Antonio Queb**, un experto en transformar conceptos innovadores en soluciones tecnológicas reales. Mi pasión radica en llevar las ideas desde el papel hasta la pantalla, creando aplicaciones que no solo cumplen, sino que superan las expectativas.
 

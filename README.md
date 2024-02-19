@@ -13,7 +13,7 @@ También actúo como consultor, brindando asesoramiento estratégico para ayudar
 ### Beneficios tangibles de nuestra colaboración:
 
 Comprensión profunda: Me sumerjo en los matices de tu negocio para comprender y abordar tus necesidades específicas.
-Soluciones innovadoras: Aprovecho tecnologías emergentes y mi ingenio para desarrollar soluzioni que superen los límites de lo convencional.
+Soluciones innovadoras: Aprovecho tecnologías emergentes y mi ingenio para desarrollar soluciones que superen los límites de lo convencional.
 Calidad excepcional: La excelencia es mi sello distintivo. Cada proyecto refleja los más altos estándares, garantizando la longevidad y el impacto.
 Soporte inquebrantable: Nuestro compromiso contigo se extiende más allá de la finalización del proyecto. Proporcionamos soporte continuo para garantizar el éxito sostenido.
 
@@ -21,4 +21,4 @@ Soporte inquebrantable: Nuestro compromiso contigo se extiende más allá de la 
 
 En un panorama tecnológico en constante evolución, mantengo mi brújula orientada hacia la innovación. Me comprometo a aprovechar mis conocimientos y habilidades para garantizar que tu negocio prospere en la era digital.
 
-Si buscas un socio tecnológico que ilumine tu visión y la haga realidad, ¡contáctame! Juntos, podemos embarcarnos en un viaje de transformación digital que elevará tu negocio a nuevas cotas.
+Si buscas un socio tecnológico que ilumine tu visión y la haga realidad, ¡contáctame! Juntos, podemos embarcarnos en un viaje de transformación digital que elevará tu negocio.

@@ -1,5 +1,4 @@
-# ¡Hola!👋 Emprende un viaje de innovación tecnológica
-Soy un alquimista digital, transmutando visiones innovadoras en soluciones tecnológicas tangibles. Con mi pasión por materializar las ideas y mi destreza técnica, te guío desde el lienzo de la concepción hasta el vibrante reino de la realidad digital.
+Soy un **alquimista digital**, transmutando visiones innovadoras en soluciones tecnológicas tangibles. Con mi pasión por materializar las ideas y mi destreza técnica, te guío desde el lienzo de la concepción hasta el vibrante reino de la realidad digital.
 
 ## Experiencia contrastada y enfoque centrado en el cliente:
 

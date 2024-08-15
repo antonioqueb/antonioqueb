@@ -1,4 +1,4 @@
-**Desarrollador de software orientado a soluciones funcionales**
+### **Desarrollador de software orientado a soluciones funcionales**
 
 Soy desarrollador backend con conocimientos en frontend, dedicado a convertir ideas innovadoras en soluciones tecnológicas concretas y eficientes. Mi objetivo es claro: llevar cada proyecto desde su concepto hasta una implementación práctica y funcional, con un enfoque en el rendimiento, la eficiencia y la calidad.
 
